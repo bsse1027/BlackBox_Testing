@@ -1,3 +1,3 @@
-<h1>Black Box Testing</h1>
+<h1>JUnit Testing</h1>
 
 Source code and Generated Reports have been attached herewith.
